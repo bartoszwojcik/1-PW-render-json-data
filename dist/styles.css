@@ -1,4 +1,14 @@
 body {
-  background: paleturquoise;
-  color: black; }
+  background: pink; }
+
+.active {
+  border: 2px solid blue; }
+
+.horoscopeContainer {
+  background: red; }
+  .horoscopeContainer.active {
+    border: 0; }
+
+.horoscopeContainer h2 {
+  background: red; }
 
