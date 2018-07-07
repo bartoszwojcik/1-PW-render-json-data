@@ -8,7 +8,7 @@ body {
 
 .horoscopeContainer {
   background: red;
-  &.active {
+  &.active {        /* szczegolowa zasada dla container i active */
     border: 0;
   }
   &:hover {
