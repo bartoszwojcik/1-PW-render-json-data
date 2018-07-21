@@ -8,11 +8,14 @@ document.addEventListener('DOMContentLoaded', () => {
 	class App extends React.Component {
 		render() {
 			return (
-				<div>
-					<h1>My components:</h1>
-					<Horoscope title="tytul z App" data={data}/>			//tutaj wstawiane sa title i date okreslane w components
+				<div className="greatDiv">
+                    <p className="dateAdded">21-07-2018</p>
+					<h1 className="horoscopeTitle">Horoscope</h1>
+					<div className="horoscopeTitle under"> </div>
+                    <p className="dateToday">Today</p>
+					<Horoscope data={data}/>
 				</div>
-		);
+			);
 		}
 	}
 

@@ -19,7 +19,7 @@ export default {
 			"constellation": "Aries",
 			"image": "http://js.ricemedia.co/wp-content/uploads/2018/03/Aries-rice-media-our-parliament-playground-because-aries-1.jpg",
 			"dateRange": "March 21 – April 19",
-			"description": "Jij hebt het druk op het werk en thuis loopt ook niet alles naar wens. Je wilt ontsnappen aan de sleur van alledag. Er is maar één oplossing: vakantie, daarmee vang je twee vliegen in één klap.",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque impedit nihil quasi quisquam repudiandae vel. Ad, alias animi dignissimos dolorum earum ex laudantium magni maiores nisi sapiente sit temporibus, vero!",
 			"headline": false
 		},
 		{
@@ -34,7 +34,7 @@ export default {
 			"image": "https://orig00.deviantart.net/558b/f/2011/124/2/4/gemini_complex_by_suryaasura-d3flyme.jpg",
 			"dateRange": "May 21 – June 20",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque impedit nihil quasi quisquam repudiandae vel. Ad, alias animi dignissimos dolorum earum ex laudantium magni maiores nisi sapiente sit temporibus, vero!",
-			"headline": true
+			"headline": false
 		},
 		{
 			"constellation": "Cancer",
@@ -77,6 +77,13 @@ export default {
 			"dateRange": "November 22 – December 21",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque impedit nihil quasi quisquam repudiandae vel. Ad, alias animi dignissimos dolorum earum ex laudantium magni maiores nisi sapiente sit temporibus, vero!",
 			"headline": false
+		},
+				{
+			"constellation": "Ophiuchus",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ophiuchus.jpg",
+			"dateRange": "December 6 - December 31",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque impedit nihil quasi quisquam repudiandae vel. Ad, alias animi dignissimos dolorum earum ex laudantium magni maiores nisi sapiente sit temporibus, vero!",
+			"headline": true
 		},
 		{
 			"constellation": "Capricorn",
